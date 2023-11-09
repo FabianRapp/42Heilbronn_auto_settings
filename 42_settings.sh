@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Change the mouse tracking speed for the current user
-#defaults write com.apple.mouse.scaling -float 0.6875
+defaults write com.apple.mouse.scaling -float 0.6875
 #echo "Mouse tracking speed has been set."
 
 # Change appearance to dark mode for the current user
